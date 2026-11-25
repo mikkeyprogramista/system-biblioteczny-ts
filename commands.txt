@@ -1,0 +1,7 @@
+npm init -y
+npm install typescript
+npx tsc -init
+npx tsc --watch (optional <file.ts>)
+
+npm i nodemon
+npx nodemon <file.js>
