@@ -16,7 +16,7 @@ class Book {
     }
 
     borrow() {
-        this.isBorrowed = false;
+        this.isBorrowed = true;
     }
 
     returnBook() {
